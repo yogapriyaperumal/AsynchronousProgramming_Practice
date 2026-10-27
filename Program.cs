@@ -3,3 +3,4 @@
 ExtensionMethods e = new ExtensionMethods();
 await e.BasicAsync();
 await e.TrackTaskAsync();
+await e.TaskTrackingAsync();
