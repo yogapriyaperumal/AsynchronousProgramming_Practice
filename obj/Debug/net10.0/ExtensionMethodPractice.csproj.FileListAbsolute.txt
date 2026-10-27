@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\net10.0\ExtensionMethodPractice.exe
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\net10.0\ExtensionMethodPractice.deps.json
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\net10.0\ExtensionMethodPractice.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\net10.0\ExtensionMethodPractice.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\net10.0\ExtensionMethodPractice.pdb
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\refint\ExtensionMethodPractice.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.pdb
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ExtensionMethodPractice.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\ref\ExtensionMethodPractice.dll
+C:\Users\DELL\OneDrive\Desktop\HCL\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\net10.0\Extensio.79E7EA77.Up2Date
